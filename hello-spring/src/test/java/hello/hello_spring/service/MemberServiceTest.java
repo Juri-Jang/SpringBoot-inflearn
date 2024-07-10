@@ -1,7 +1,7 @@
 package hello.hello_spring.service;
 
 import hello.hello_spring.domain.Member;
-import hello.hello_spring.repository.MemoryMemberRepository;
+import hello.hello_spring.repository.MemoryMemberRepositSory;
 import org.aspectj.lang.annotation.Before;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
